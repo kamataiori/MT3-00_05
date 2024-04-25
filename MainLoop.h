@@ -2,7 +2,7 @@
 #include <Novice.h>
 #include <Result.h>
 
-const char kWindowTitle[] = "学籍番号";
+const char kWindowTitle[] = "LE2B_16_ツユキ_イオリ_MT3_00_05";
 
 class MainLoop {
 
